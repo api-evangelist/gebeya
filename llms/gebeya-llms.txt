@@ -1,0 +1,26 @@
+# Gebeya
+
+> Gebeya is an Ethiopian talent-cloud and marketplace technology company headquartered in Addis Ababa, founded in 2016. It trains, vets, and connects African tech talent with organizations, and provides a Marketplace-as-a-Service platform (Gebeya-Jenga) for launching branded, multi-tenant service marketplaces with built-in payments and analytics. Current products include Dala Studio and Jitume, applying LLMs and proprietary data to build AI agents and workforce-intelligence tools for the African digital economy. Gebeya is backed by Partech.
+
+Note: Gebeya publishes no public developer API, OpenAPI specification, or SDK as of this writing. This file is generated from the API Evangelist catalog profile.
+
+## Company
+- [Gebeya](https://gebeya.com/): Company homepage
+- [Our Story / Company](https://gebeya.com/): Talent cloud and Marketplace-as-a-Service company
+- [Contact](https://gebeya.com/contact): Contact and support
+- [Blog](https://gebeya.com/blog): Company blog and news
+
+## Products
+- [Dala Studio](https://dala.gebeya.com/): AI creative and agent tooling
+- [Jitume](https://jitume.gebeya.com/): Workforce intelligence
+- [Gebeya-Jenga](https://gebeya.com/): Marketplace-as-a-Service for launching custom service marketplaces
+
+## Legal
+- [Terms of Service](https://gebeya.com/terms)
+- [Privacy Policy](https://gebeya.com/privacy-policy)
+
+## Code
+- [GitHub organization](https://github.com/Gebeya): Public GitHub organization
+
+## Catalog
+- [APIs.json profile](https://raw.githubusercontent.com/api-evangelist/gebeya/refs/heads/main/apis.yml): API Evangelist network profile

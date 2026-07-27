@@ -1,9 +1,26 @@
 aid: gebeya
 name: Gebeya
-description: 'Gebeya is a company surfaced as a portfolio company of partech and added to the API Evangelist
-  network as a stub for enrichment. Sector: Marketplace. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'Gebeya is an Ethiopian talent-cloud and marketplace technology company headquartered
+  in Addis Ababa, founded in 2016 by Amadou Daffe and Hiruy Amanuel. It trains, vets, and connects
+  African tech talent with organizations, and provides a Marketplace-as-a-Service platform (Gebeya-Jenga)
+  that lets entrepreneurs launch branded, multi-tenant service marketplaces with built-in payments
+  and analytics. Its current products include Dala Studio and Jitume, applying LLMs and proprietary
+  data to build AI agents and workforce-intelligence tools for the African digital economy. Gebeya
+  is backed by Partech. As of this profiling it publishes no public developer API, OpenAPI
+  specification, or SDK.'
 url: https://raw.githubusercontent.com/api-evangelist/gebeya/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://gebeya.com/wp-content/uploads/2024/02/cropped-gebeyalogo-192x192.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +29,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Marketplace
+- Talent
+- Africa
+- SaaS
+- Marketplace as a Service
+- Artificial Intelligence
+- Ethiopia
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +48,28 @@ maintainers:
 common:
 - type: Website
   url: https://www.gebeya.com/
+- type: Blog
+  url: https://gebeya.com/blog
+- type: Support
+  url: https://gebeya.com/contact
+- type: TermsOfService
+  url: https://gebeya.com/terms
+- type: PrivacyPolicy
+  url: https://gebeya.com/privacy-policy
+- type: GitHubOrganization
+  url: https://github.com/Gebeya
+- type: Product
+  name: Dala Studio
+  url: https://dala.gebeya.com/
+- type: Product
+  name: Jitume
+  url: https://jitume.gebeya.com/
+- type: DomainSecurity
+  url: security/gebeya-domain-security.yml
+- type: LLMsTxt
+  url: llms/gebeya-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
